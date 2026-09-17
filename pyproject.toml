@@ -28,8 +28,8 @@ dependencies = [
 dev = ["build", "twine"]
 
 [project.urls]
-Homepage = "https://github.com/OWNER/lipvoice"
-Issues = "https://github.com/OWNER/lipvoice/issues"
+Homepage = "https://github.com/dengyunjin1984-dev/lipvoices"
+Issues   = "https://github.com/dengyunjin1984-dev/lipvoices/issues"
 
 [project.scripts]
 lipvoice = "lipvoice:main"

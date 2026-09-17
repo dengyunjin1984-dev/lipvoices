@@ -1,0 +1,18 @@
+{
+  "name": "lipvoice-pipeline",
+  "display_name": "LipVoice 复刻原声换口型",
+  "version": "1.0.0",
+  "summary": "给一段口播底片视频和一段新文案，产出本人形象+本人声音+说新台词的成片。",
+  "category": "视频制作 / AI 数字人",
+  "entry": "lipvoice.py",
+  "agent_entry": {
+    "codex": "AGENTS.md",
+    "claude": "SKILL.md",
+    "workbuddy": "SKILL.md",
+    "cursor": "AGENTS.md"
+  },
+  "requirements": "pip install -r requirements.txt",
+  "needs_user_key": true,
+  "pricing_note": "换口型 0.08 元/秒（阿里云百炼），使用者自带 Key，本工具不代收费用",
+  "tags": ["换口型", "数字人", "声音复刻", "口播视频", "lip-sync", "voice-clone"]
+}

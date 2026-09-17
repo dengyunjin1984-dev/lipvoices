@@ -1,0 +1,13 @@
+{
+  "api_key": "",
+  "base_url": "https://dashscope.aliyuncs.com",
+  "model": "videoretalk",
+  "tts_model": "cosyvoice-v2",
+  "price_per_second": 0.08,
+  "default_seg_len": 110,
+  "default_max_cost": 20,
+  "default_output_dir": "./lipvoice_outputs",
+  "voice_prefix": "user",
+  "sample_start": 8.0,
+  "sample_duration": 15.0
+}
